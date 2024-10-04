@@ -1,0 +1,12 @@
+function : reusablity of the code
+
+
+Js : function keyword 
+return keyword :
+
+
+funtion type :
+1. without return without argument
+2. without return with argument
+3. with return with argument
+4. with return without argument
