@@ -1,0 +1,6 @@
+Callback : 
+
+
+Javascript : sigle page application 
+
+Java : multithreded application 

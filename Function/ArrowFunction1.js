@@ -28,10 +28,10 @@ const demo = ()=>{
 // console.log("multiply = ",x);
 
 
-const isOdd = (x)=> x%2!=0 ? "Odd":"Even";
+// const isOdd = (x)=> x%2!=0 ? "Odd":"Even";
 
-var x = isOdd(13)
-console.log(x);
+// var x = isOdd(13)
+// console.log(x);
 
 
 
