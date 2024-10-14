@@ -1,0 +1,18 @@
+DOM -- Document object model --- html
+
+document -- parent tag 
+
+
+js-- to manipulate the dom 
+
+identify 
+id [uniqui]
+class [duplicate]
+tagName [duplicate]
+name [duplicate]
+querrySelector
+
+
+Event : 
+1. onclick
+2. ondblclick

@@ -90,6 +90,9 @@ var company = [
         ]
     }
 ]
+
+
+
 // var sum = 0;
 // var x = company.map((comp)=> comp.employees.reduce((sum,emp)=> sum + emp.salary,0)).reduce((sum,emp)=> sum+emp,0)
 // console.log(x);
