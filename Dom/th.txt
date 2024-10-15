@@ -16,3 +16,13 @@ querrySelector
 Event : 
 1. onclick
 2. ondblclick
+3. onmouseover
+4. onmouseout
+5. onmousemove
+6. onmouseleave 
+7. onmouseEnter 
+
+Key board :
+1. onkeypress
+2. onkeyup
+3. onkeydown
