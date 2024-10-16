@@ -24,12 +24,23 @@ function submitHandler(e){
         emailErr.innerHTML = "Email is required.."
     }
 
-    // var user = {
-    //     name:name.value,
-    //     email:email.value
-    // }
+    var user = {
+        name:name.value,
+        email:email.value
+    }
     
-    // console.log(user);
+    console.log(user);
+
+    // var user2 = JSON.stringify(user);
+
+    // var ans = document.getElementById("ans");
+    // ans.innerHTML = user2
+
+    // console.log(user2[0]);
+
+    var ans = document.getElementById("ans");
+    ans.innerHTML = JSON.stringify(user);
+    
     
     console.log("form submitted...");
     
